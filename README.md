@@ -7,10 +7,10 @@
 
 ## 🛠 Мой стек технологий:
 - **Backend:** NodeJs (Express)
-- **Frontend:** HTML, CSS, JavaScript + (AJAX), Bootstrap
+- **Frontend:** HTML, CSS, JavaScript
 - **Базы данных:** PostgreSQL, MySQL
-- **Инструменты:** Git
-- **Дополнительно** Ngnix, Python(Aiogram) (TG bots)
+- **Инструменты:** Git, Postman, Docker
+- **Дополнительно** Ngnix, Python(Aiogram) (TG bots), Bootstrap
 
 ## 📫 Контакты:
 - 🌍 Telegram: **@Anardest**
