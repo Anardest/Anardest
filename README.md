@@ -7,7 +7,7 @@
 
 ## 🛠 Мой стек технологий:
 - **Backend:** NodeJs (Express)
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Vue
 - **Базы данных:** PostgreSQL, MySQL
 - **Инструменты:** Git, Postman, Docker
 - **Дополнительно** Ngnix, Python(Aiogram) (TG bots), Bootstrap
