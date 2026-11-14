@@ -1,4 +1,4 @@
-# Реальное имя - Артём (Anardest)
+
 
 **Full-Stack разработчик** | **Backend разработчик** | **Веб-разработчик**
 
@@ -9,6 +9,3 @@
 - **Backend:** NodeJs (express), FastApi
 - **Frontend:** React
 - **ЯП:** JavaScript, TypeScript, Python
-
-## 📫 Контакты:
-- 🌍 Telegram: **@Anardest**
